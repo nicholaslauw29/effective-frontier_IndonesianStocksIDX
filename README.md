@@ -57,7 +57,7 @@ Python 3.9 or higher is recommended.
 ### Run
 
 ```bash
-python portfolio_project_fixed.py
+python PortfolioStockProject.py
 ```
 
 The script will:
